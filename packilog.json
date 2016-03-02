@@ -1,0 +1,15 @@
+{
+	"files":
+	[
+		"capi.sv",
+		"afu.sv"
+	],
+	"dependencies":
+	[
+		{
+			"type": "file",
+			"source": "https://raw.githubusercontent.com/ibm-capi/pslse/64e5ece91064a5ad7cb202eaa929a09aecdede19/afu_driver/verilog/top.v",
+			"filename": "top.v"
+		}
+	]
+}
